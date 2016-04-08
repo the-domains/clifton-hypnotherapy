@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "Admin Address: \_"
-datePublished: '2016-04-08T15:11:20.864Z'
-dateModified: '2016-04-08T15:05:45.207Z'
+description: "Admin Address: \_C/O Changes Welcome, Suite 253, 179 Whiteladies Road, Clifton, Bristol, BS8 2AG"
+datePublished: '2016-04-08T21:47:37.593Z'
+dateModified: '2016-04-08T21:47:34.981Z'
 title: Contact Us
 author: []
 sourcePath: _posts/2016-04-08-contact-us.md
@@ -25,7 +25,9 @@ _type: WebPage
 # Contact Us
 ![Contact a Hypnotherapist in Clifton & Westbury (Bristol)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5285b5f1-2af9-489e-a3a9-4b97519587c9.jpg)
 
-Admin Address:  C/O Changes Welcome, Suite 253, 179 Whiteladies Road, Clifton, Bristol, BS8 2AG
+**Clifton Hypnotherapy Practice**
+
+c/o Changes Welcome, Suite 253, 179 Whiteladies Road, Clifton, Bristol, BS8 2AG
 
 info@changeswelcome.com
 
