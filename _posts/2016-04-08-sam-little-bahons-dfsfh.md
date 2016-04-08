@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Clinical Hypnotherapist in Clifton & Westbury offering Solution Focused hypnotherapy, Psychotherapy and Coaching.'
-datePublished: '2016-04-08T14:36:34.241Z'
-dateModified: '2016-04-08T14:36:31.526Z'
+description: 'Hypnotherapist in Westbury & Clifton offering Solution Focused hypnotherapy, Psychotherapy and Coaching.'
+datePublished: '2016-04-08T15:11:14.124Z'
+dateModified: '2016-04-08T15:10:08.587Z'
 title: Sam Little BA(hons) DFSFH
 author: []
 sourcePath: _posts/2016-04-08-sam-little-bahons-dfsfh.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # Sam Little BA(hons) DFSFH
-![Clinical Hypnotherapist in Clifton - Sam Little BA(hons) DSFH](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35df3385-a67d-4ad7-a6d0-63473e76779d.jpg)
+![Hypnotherapist in Westbury & Clifton - Sam Little DSFH](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53397501-2970-42e5-91aa-85c3a38dcd25.png)
 
 Sam joined Clifton Hypnotherapy Practice in 2015, because it just made good sense.  His training is almost identical to Liane's, but his background and experience is not.  This gives them a solid basis on which to base the services, sessions, and programmes, which they offer, whilst they each have different additional skills to bring to the mix.
 
