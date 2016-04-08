@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Relaxation is not just relaxation, it might just be the most powerful tool available for combatting Stress, Anxiety & Depression, whilst maximising Self Esteem, boosting confidence, and catapulting you into your full potential.'
-datePublished: '2016-04-08T19:45:53.089Z'
-dateModified: '2016-04-08T19:43:49.217Z'
+datePublished: '2016-04-08T21:42:02.981Z'
+dateModified: '2016-04-08T21:41:17.785Z'
 title: 'Bristol Hypnosis for Relaxation, Empowerment & Yours Truly'
 author: []
 sourcePath: _posts/2016-04-08-bristol-hypnosis-for-relaxation-empowerment-and-yours-truly.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: bristol-hypnosis-for-relaxation-empowerment-and-yours-truly/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/79c393e2-d901-4d54-8a09-6883d0d7a31a.jpg)
