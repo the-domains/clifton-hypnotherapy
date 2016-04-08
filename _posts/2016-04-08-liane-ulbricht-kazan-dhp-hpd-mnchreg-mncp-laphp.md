@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Clinical Hypnotherapist Clifton Liane Ulbricht-Kazan DHP HPD MNCH(Reg) MNCP LAPHP
-datePublished: '2016-04-08T15:08:56.420Z'
-dateModified: '2016-04-08T15:08:47.985Z'
+description: 'Originally from Germany, Liane has followed many aspects of the positive psychology movement since before she moved to Bristol over 10 years ago.'
+datePublished: '2016-04-08T15:10:56.243Z'
+dateModified: '2016-04-08T15:10:28.410Z'
 title: Liane Ulbricht-Kazan DHP HPD MNCH(Reg) MNCP LAPHP
 author: []
 sourcePath: _posts/2016-04-08-liane-ulbricht-kazan-dhp-hpd-mnchreg-mncp-laphp.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # Liane Ulbricht-Kazan DHP HPD MNCH(Reg) MNCP LAPHP
-![Clinical Hypnotherapist Clifton - Liane Ulbricht-Kazan](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1426f5b-4b10-402f-bf44-79eac2ad2921.png)
+![Clinical Hypnotherapist Clifton - Liane Ulbricht-Kazan](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7238881d9c231f869ca0c00baaa75461fe49972.png)
 
 Originally from Germany, Liane has followed many aspects of the positive psychology movement since before she moved to Bristol over 10 years ago.
 
