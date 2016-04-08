@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Here at the Clifton Hypnotherapy Practice in Bristol we specialise in helping people empower themselves not only to get over their issues, but to go on to be the best they can be.'
-datePublished: '2016-04-08T15:37:36.352Z'
-dateModified: '2016-04-08T13:12:34.122Z'
+datePublished: '2016-04-08T22:01:21.984Z'
+dateModified: '2016-04-08T22:00:09.005Z'
 title: Clifton Hypnotherapy Practice
 author: []
 sourcePath: _posts/2016-04-08-clifton-hypnotherapy-practice.md
@@ -28,3 +28,8 @@ _type: Article
 Here at the Clifton Hypnotherapy Practice in Bristol we specialise in helping people empower themselves not only to get over their issues, but to go on to be the best they can be.
 
 Our expertise has its roots in Solution Focused Hypnotherapy, Psychotherapy and Coaching, which is why we have been successfully practicing since 2012\.  Sessions can be arranged individually, or as part of a programme, and we have a great track record helping a wide range Anxiety, Confidence, Depression, and Anger related issues.  All you have to do is get in there quickly, because spaces are limited.Why choose Clifton Hypnotherapy Practice?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0c993d3-f2e6-4e8e-acee-e7ee94ce449a.png)
+
+[Contact Us][0]
+
+[0]: http://www.cliftonhypnotherapy.com/contact-us/
