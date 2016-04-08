@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'Relaxation is not just relaxation, it might just be the most powerful tool available for combatting Stress, Anxiety & Depression, whilst maximising Self Esteem, boosting confidence, and catapulting you into your full potential.'
-datePublished: '2016-04-08T21:42:35.660Z'
-dateModified: '2016-04-08T21:42:12.095Z'
-title: 'Bristol Hypnosis for Relaxation, Empowerment & Yours Truly'
+description: "Why? \_Because when you are relaxed and calm, Anxiety and Stress does not exist, because you're doing the opposite instead. \_You simply can't be on high alert, and be on top of your stress bucket stuff at the same time."
+datePublished: '2016-04-08T21:46:37.972Z'
+dateModified: '2016-04-08T21:46:32.306Z'
+title: Hypnosis
 author: []
 sourcePath: _posts/2016-04-08-bristol-hypnosis-for-relaxation-empowerment-and-yours-truly.md
 published: true
@@ -24,7 +24,9 @@ _type: WebPage
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/79c393e2-d901-4d54-8a09-6883d0d7a31a.jpg)
 
-# Bristol Hypnosis for Relaxation, Empowerment & Yours Truly
+# Hypnosis
+
+## Bristol Hypnosis for Relaxation, Empowerment & Yours Truly
 
 Relaxation is not just relaxation, it might just be the most powerful tool available for combatting Stress, Anxiety & Depression, whilst maximising Self Esteem, boosting confidence, and catapulting you into your full potential.
 
