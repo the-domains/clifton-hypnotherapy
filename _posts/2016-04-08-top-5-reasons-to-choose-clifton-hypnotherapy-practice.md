@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "1) In order to get good at anything, it takes practice. \_Here at changes welcome we see more client per week then 3/4's of the entire NCH membership. \_In short, this means that we get a lot of practice!"
-datePublished: '2016-04-08T18:42:08.541Z'
-dateModified: '2016-04-08T18:32:59.447Z'
+datePublished: '2016-04-08T19:36:33.578Z'
+dateModified: '2016-04-08T18:44:34.928Z'
 title: Top 5 Reasons to Choose Clifton Hypnotherapy Practice
 author: []
 sourcePath: _posts/2016-04-08-top-5-reasons-to-choose-clifton-hypnotherapy-practice.md
