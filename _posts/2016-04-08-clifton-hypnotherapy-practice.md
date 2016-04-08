@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Here at the Clifton Hypnotherapy Practice in Bristol we specialise in helping people empower themselves not only to get over their issues, but to go on to be the best they can be.'
-datePublished: '2016-04-08T10:48:49.708Z'
-dateModified: '2016-04-08T10:48:43.810Z'
+datePublished: '2016-04-08T11:09:23.618Z'
+dateModified: '2016-04-08T11:01:53.826Z'
 title: Clifton Hypnotherapy Practice
 author: []
 sourcePath: _posts/2016-04-08-clifton-hypnotherapy-practice.md
@@ -32,7 +32,6 @@ Our expertise has its roots in Solution Focused Hypnotherapy, Psychotherapy and 
 ## Why choose Clifton Hypnotherapy Practice?
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9baac4cbfe1386fc0362bdf03288d937329c5d54.jpg)
 
-* In order to be good at what you do, you have to practice.  Because we see more clients than 3/4's of all NCH registered practitioners we can certainly that we get a lot of practice.
 * In order to be good at what you do, you have to practice.  Because we see more clients than 3/4's of all NCH registered practitioners we can certainly that we get a lot of practice.
 * Our Qualifications are top notch, including supervisor level.  Additionally, we have had a lot of specialist training, and continuously undergo ongoing further development to keep our learning up to date.
 * We are validated members of numerous professional organisations and bodies including the CNHC (Complementary & Natural Healthcare Council), AfSFH (Association for Solution Focused Hypnotherapy), and NCH (National Council for Hypnotherapy).
