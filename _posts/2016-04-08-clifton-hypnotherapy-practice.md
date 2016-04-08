@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Here at the Clifton Hypnotherapy Practice in Bristol we specialise in helping people empower themselves not only to get over their issues, but to go on to be the best they can be.'
-datePublished: '2016-04-08T10:46:33.726Z'
-dateModified: '2016-04-08T10:46:33.208Z'
+datePublished: '2016-04-08T10:48:36.454Z'
+dateModified: '2016-04-08T10:48:08.204Z'
 title: Clifton Hypnotherapy Practice
 author: []
 sourcePath: _posts/2016-04-08-clifton-hypnotherapy-practice.md
