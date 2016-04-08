@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Hypnosis, Coaching & Psychotherapy Bristol and Beyond - A solution Focused approach to getting you the very best deal from your life.'
-datePublished: '2016-04-08T20:15:11.047Z'
-dateModified: '2016-04-08T20:15:05.570Z'
+datePublished: '2016-04-08T20:33:11.963Z'
+dateModified: '2016-04-08T20:32:58.387Z'
 title: Psychotherapy with Hypnosis - a Solution Focused Approach
 author: []
+sourcePath: _posts/2016-04-08-psychotherapy-with-hypnosis-a-solution-focused-approach.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-08-psychotherapy-with-hypnosis-a-solution-focused-approach.md
-published: true
 url: psychotherapy-with-hypnosis-a-solution-focused-approach/index.html
 _type: Article
 
