@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Here at the Clifton Hypnotherapy Practice in Bristol we specialise in helping people empower themselves not only to get over their issues, but to go on to be the best they can be.'
-datePublished: '2016-04-08T10:42:54.979Z'
-dateModified: '2016-04-08T10:42:00.586Z'
+datePublished: '2016-04-08T10:46:33.726Z'
+dateModified: '2016-04-08T10:46:33.208Z'
 title: Clifton Hypnotherapy Practice
 author: []
 sourcePath: _posts/2016-04-08-clifton-hypnotherapy-practice.md
@@ -33,22 +33,15 @@ Our expertise has its roots in Solution Focused Hypnotherapy, Psychotherapy and 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9baac4cbfe1386fc0362bdf03288d937329c5d54.jpg)
 
 * In order to be good at what you do, you have to practice.  Because we see more clients than 3/4's of all NCH registered practitioners we can certainly that we get a lot of practice.
-
+* In order to be good at what you do, you have to practice.  Because we see more clients than 3/4's of all NCH registered practitioners we can certainly that we get a lot of practice.
 * Our Qualifications are top notch, including supervisor level.  Additionally, we have had a lot of specialist training, and continuously undergo ongoing further development to keep our learning up to date.
-
-* We are validated members of numerous professional organisations and bodies including the CNHC (Complementary &Natural Healthcare Council), AfSFH (Association for Solution Focused Hypnotherapy), and NCH (National Council 
-
+* We are validated members of numerous professional organisations and bodies including the CNHC (Complementary & Natural Healthcare Council), AfSFH (Association for Solution Focused Hypnotherapy), and NCH (National Council for Hypnotherapy).
 * We are fully insured, and CRB checked.
 
 ## Where do you Practice?
 
-We hold regular practice hours at three prime Bristol locationsL
+We hold regular practice hours at three prime Bristol locations:
 
 * The Clifton Practice, Whiteladies Road, Clifton, Bristol.
-
 * The Practice Rooms, Regent Street, Clifton, Bristol.
-
 * The Practice Rooms, Westbury-on-Trym, Bristol.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9b42f73-567a-4987-93c5-729298de12b3.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b1e7c56-6ee4-420e-9fcd-bd409f2cc312.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50ed4d46-55c8-4966-a45b-72033f6ce3fb.jpg)
