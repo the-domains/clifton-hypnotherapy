@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Originally from Germany, Liane has followed many aspects of the positive psychology movement since before she moved to Bristol over 10 years ago.'
-datePublished: '2016-04-08T15:10:56.243Z'
-dateModified: '2016-04-08T15:10:28.410Z'
+datePublished: '2016-04-08T15:36:57.914Z'
+dateModified: '2016-04-08T15:28:07.206Z'
 title: Liane Ulbricht-Kazan DHP HPD MNCH(Reg) MNCP LAPHP
 author: []
 sourcePath: _posts/2016-04-08-liane-ulbricht-kazan-dhp-hpd-mnchreg-mncp-laphp.md
