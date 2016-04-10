@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Why? \_Because when you are relaxed and calm, Anxiety and Stress does not exist, because you're doing the opposite instead. \_You simply can't be on high alert, and be on top of your stress bucket stuff at the same time."
-datePublished: '2016-04-09T07:12:30.685Z'
-dateModified: '2016-04-09T07:12:12.523Z'
+datePublished: '2016-04-10T08:14:22.677Z'
+dateModified: '2016-04-09T07:12:39.903Z'
 title: Hypnosis
 author: []
 sourcePath: _posts/2016-04-08-bristol-hypnosis-for-relaxation-empowerment-and-yours-truly.md
@@ -23,9 +23,11 @@ _type: WebPage
 
 ---
 # Hypnosis
+
+## for relaxation, empowerment & yours truly!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/79c393e2-d901-4d54-8a09-6883d0d7a31a.jpg)
 
-## Bristol hypnosis for relaxation, empowerment & yours truly!
+## 
 
 Relaxation is not just relaxation, it might just be the most powerful tool available for combatting Stress, Anxiety & Depression, whilst maximising Self Esteem, boosting confidence, and catapulting you into your full potential.
 
