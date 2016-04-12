@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
@@ -16,8 +16,8 @@ keywords:
   - behaviours
   - session
 description: Liane is a qualified Supervisor for Hypnotherapists in Bristol
-datePublished: '2016-04-12T14:59:05.847Z'
-dateModified: '2016-04-12T14:59:05.385Z'
+datePublished: '2016-04-12T15:10:15.904Z'
+dateModified: '2016-04-12T15:10:10.145Z'
 author:
   - name: Liane Ulbricht-Kazan
     url: null
@@ -25,14 +25,14 @@ author:
 related: []
 app_links: []
 title: Hypnotherapy Supervisor Bristol
+sourcePath: _posts/2016-04-12-liane-ulbricht-kazan-nch-hypnotherapist-in-clifton-bristol.md
+published: true
 authors: []
 publisher:
   name: National Council for Hypnotherapy
   domain: www.hypnotherapists.org.uk
   url: 'http://www.hypnotherapists.org.uk'
   favicon: 'http://www.hypnotherapists.org.uk/favicon.ico'
-sourcePath: _posts/2016-04-12-liane-ulbricht-kazan-nch-hypnotherapist-in-clifton-bristol.md
-published: true
 url: hypnotherapy-supervisor-bristol/index.html
 _context: 'http://schema.org'
 _type: MediaObject
