@@ -1,25 +1,25 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-12T18:32:54.435Z'
-dateModified: '2016-04-12T18:32:53.639Z'
+datePublished: '2016-04-12T18:34:38.712Z'
+dateModified: '2016-04-12T18:34:28.798Z'
 title: Testimonials
 author: []
+sourcePath: _posts/2016-04-12-testimonials.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-12-testimonials.md
-published: true
 url: testimonials/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 # Testimonials
