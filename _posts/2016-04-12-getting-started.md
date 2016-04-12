@@ -22,8 +22,8 @@ description: >-
   lasting
 
   changes that brighten up all aspects of their home and work life.
-datePublished: '2016-04-12T17:10:04.966Z'
-dateModified: '2016-04-12T16:20:43.933Z'
+datePublished: '2016-04-12T17:20:08.437Z'
+dateModified: '2016-04-12T17:20:04.626Z'
 title: Getting Started
 author: []
 sourcePath: _posts/2016-04-12-getting-started.md
@@ -40,11 +40,12 @@ _type: Article
 ---
 # Getting Started
 
-Getting started with Hypnotherapy Sessions in Bristol
-couldn't be easier.All you need to do
-is book an initial consultation.Liane
+with Hypnotherapy, Psychotherapy & Coaching in Bristol....
+
+It couldn't be easier.  All you need to do
+is book an initial consultation.  Liane
 or Sam will explain in clear text just how the brain works in relation to your
-issue or desired goal.But more
+issue or desired goal.  But more
 importantly, you'll find out how hypnotherapy has helped 1000s of people not
 only to cope better, but to go on and achieve the most amazing positive lasting
 changes that brighten up all aspects of their home and work life.
