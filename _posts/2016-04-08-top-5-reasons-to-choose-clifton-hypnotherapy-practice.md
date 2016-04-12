@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "1) In order to get good at anything, it takes practice. \_Here at changes welcome we see more client per week then 3/4's of the entire NCH membership. \_In short, this means that we get a lot of practice!"
-datePublished: '2016-04-08T20:41:27.995Z'
-dateModified: '2016-04-08T20:04:19.757Z'
+description: "1)\_In order to get good at anything, it takes practice. \_Here at changes welcome we see more client per week then 3/4's of the entire NCH membership. \_In short, this means that we get a lot of practice!"
+datePublished: '2016-04-12T18:20:06.405Z'
+dateModified: '2016-04-12T18:20:02.059Z'
 title: Top 5 Reasons to Choose Clifton Hypnotherapy Practice
 author: []
 sourcePath: _posts/2016-04-08-top-5-reasons-to-choose-clifton-hypnotherapy-practice.md
@@ -23,7 +23,6 @@ _type: Article
 
 ---
 # Top 5 Reasons to Choose Clifton Hypnotherapy Practice
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd9c101ec9e177e83232d93dd979df050e81495b.jpg)
 
 **1)** In order to get good at anything, it takes practice.  Here at changes welcome we see more client per week then 3/4's of the entire NCH membership.  In short, this means that we get a lot of practice!
 
@@ -33,6 +32,7 @@ _type: Article
 
 **4)** We are recognised by and bonafide members of several important official organisations and associations such as the CNHC (Complementary & Natural Healthcare Council), the AfSFH (Association for Solution Focused Hypnotherapy) & the NCH (National Council for Hypnotherapy).
 
-**5)** But don't just take our word for it, check out the huge number of testimonials, client success stories & interviews on our [company site][0].
+**5)** But don't just take our word for it, check out the huge number of testimonials, client success stories & interviews on our [regional website][0].
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f2bddf7-459a-4df4-8605-9144864e9096.jpg)
 
 [0]: http://www.changeswelcome.com/testimonials-archive/
