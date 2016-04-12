@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Clifton Hypnotherapy Practice
-datePublished: '2016-04-12T18:16:31.311Z'
-dateModified: '2016-04-12T18:16:30.419Z'
+datePublished: '2016-04-12T18:15:54.602Z'
+dateModified: '2016-04-12T18:15:54.082Z'
 title: Contact Us
 author: []
 sourcePath: _posts/2016-04-08-contact-us.md
@@ -22,8 +22,9 @@ url: contact-us/index.html
 _type: WebPage
 
 ---
-# Contact Us
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/daca5d28-1fc8-4f10-91fe-a7eeeebdef6d.jpg)
+
+# Contact Us
 
 **Clifton Hypnotherapy Practice**
 
@@ -34,3 +35,7 @@ info@changeswelcome.com
 Tel: 0117 214 0724
 
 Mob: 07825 286 550
+![Contact a Hypnotherapist in Clifton & Westbury (Bristol)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5285b5f1-2af9-489e-a3a9-4b97519587c9.jpg)
+
+  
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72f0fe90-a1cf-4c7f-a540-ac191ff5ac10.jpg)
