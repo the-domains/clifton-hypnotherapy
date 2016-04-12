@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: en
@@ -16,8 +16,8 @@ keywords:
   - behaviours
   - session
 description: Liane is a qualified Supervisor for Hypnotherapists in Bristol
-datePublished: '2016-04-12T15:10:15.904Z'
-dateModified: '2016-04-12T15:10:10.145Z'
+datePublished: '2016-04-12T15:18:10.015Z'
+dateModified: '2016-04-12T15:18:08.383Z'
 author:
   - name: Liane Ulbricht-Kazan
     url: null
