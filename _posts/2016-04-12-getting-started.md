@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Getting Started
-datePublished: '2016-04-12T16:07:41.915Z'
-dateModified: '2016-04-12T16:07:39.004Z'
-title: Hypnotherapy Consultations in Clifton
+description: Getting Started with Hypnotherapy in Bristol is easy - Just book an Initial Consultation in Clifton or Westbury
+datePublished: '2016-04-12T16:20:15.763Z'
+dateModified: '2016-04-12T16:20:09.464Z'
+title: Getting Started
 author: []
 sourcePath: _posts/2016-04-12-getting-started.md
 published: true
@@ -22,7 +22,7 @@ url: getting-started/index.html
 _type: Article
 
 ---
-Getting Started
+# Getting Started
 
 Getting started with Hypnotherapy Sessions in Bristol
 couldn't be easier.All you need to do
