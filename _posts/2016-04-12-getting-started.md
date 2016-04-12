@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Getting Started
-datePublished: '2016-04-12T16:05:12.565Z'
-dateModified: '2016-04-12T16:05:11.995Z'
+datePublished: '2016-04-12T16:07:41.915Z'
+dateModified: '2016-04-12T16:07:39.004Z'
 title: Hypnotherapy Consultations in Clifton
 author: []
 sourcePath: _posts/2016-04-12-getting-started.md
@@ -40,3 +40,7 @@ basics of what you need to know to go on and get on top of things, within a
 relatively short period, which can be as little as a few weeks!
 
 So why not get in touch today, and get the ball rolling....
+
+[Contact us][0]
+
+[0]: http://www.cliftonhypnotherapy.com/contact-us/
