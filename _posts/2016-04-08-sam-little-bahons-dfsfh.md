@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Sam joined Clifton Hypnotherapy Practice in 2015, because it just made good sense. \_His training is almost identical to Liane's, but his background and experience is not. \_This gives them a solid basis on which to base the services, sessions, and programmes, which they offer, whilst they each have different additional skills to bring to the mix."
-datePublished: '2016-04-12T14:59:16.653Z'
-dateModified: '2016-04-12T14:59:15.927Z'
+datePublished: '2016-04-12T17:48:04.766Z'
+dateModified: '2016-04-12T17:13:13.180Z'
 title: Sam Little BA(hons) DSFH
 author: []
 sourcePath: _posts/2016-04-08-sam-little-bahons-dfsfh.md
