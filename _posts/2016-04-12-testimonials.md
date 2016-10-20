@@ -1,26 +1,23 @@
 ---
+datePublished: '2016-10-20T22:05:57.218Z'
+sourcePath: _posts/2016-04-12-testimonials.md
 inFeed: false
+authors: []
 hasPage: true
-inNav: false
+keywords: []
+author: []
+via: {}
+dateModified: '2016-10-20T22:05:56.768Z'
+title: Testimonials
+publisher: {}
+description: ''
 inLanguage: null
 starred: false
-keywords: []
-description: ''
-datePublished: '2016-04-12T18:34:38.712Z'
-dateModified: '2016-04-12T18:34:28.798Z'
-title: Testimonials
-author: []
-sourcePath: _posts/2016-04-12-testimonials.md
-published: true
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 url: testimonials/index.html
 _type: Blurb
 
 ---
 # Testimonials
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83abefd1-eea4-4d86-8c2b-974b6c28b278.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1faeee12bedb06fc5208bb787217ef88af131558.jpg)
+
+<article style=""><img src="http://www.changeswelcome.com/wp-content/uploads/2016/03/cw.jpg" /><h1>Testimonials Archive | Changes Welcome Hypnotherapy</h1></article>
