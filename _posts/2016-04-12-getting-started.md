@@ -4,8 +4,8 @@ hasPage: true
 inLanguage: null
 keywords: []
 description: "It couldn’t be easier. \_All you need to do\nis book an initial consultation. \_Liane\nor Sam will explain in clear text just how the brain works in relation to your\nissue or desired goal. \_But more\nimportantly, you’ll find out how hypnotherapy has helped 1000s of people not\nonly to cope better, but to go on and achieve the most amazing positive lasting\nchanges that brighten up all aspects of their home and work life."
-datePublished: '2016-10-20T23:29:00.435Z'
-dateModified: '2016-10-20T23:28:46.691Z'
+datePublished: '2016-10-20T23:29:32.605Z'
+dateModified: '2016-10-20T23:29:31.939Z'
 title: Getting Started
 author:
   - name: ''
@@ -14,7 +14,7 @@ sourcePath: _posts/2016-04-12-getting-started.md
 authors: []
 publisher: {}
 via: {}
-starred: false
+starred: true
 url: getting-started/index.html
 _type: Article
 
