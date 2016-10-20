@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-20T23:25:40.224Z'
+datePublished: '2016-10-20T23:34:48.310Z'
 sourcePath: _posts/2016-04-12-testimonials.md
 inFeed: true
 authors: []
@@ -7,12 +7,12 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-20T23:25:39.739Z'
+dateModified: '2016-10-20T23:34:47.712Z'
 title: Testimonials
 publisher: {}
 description: ''
 inLanguage: null
-starred: false
+starred: true
 url: testimonials/index.html
 _type: Article
 
