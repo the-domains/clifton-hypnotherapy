@@ -1,20 +1,4 @@
-name: Clifton Hypnotherapy
-favicon: null
-layout_spectrum: 0.64384
 typography_spectrum: 0.32414
-title: Clifton Hypnotherapy Practice
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-39145417-6
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,54 @@ color:
   lightness: 0.625
   saturation: 0.5
   rhythmicContrast: 0.5
-purpose: []
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.64384
+analytics:
+  google: UA-39145417-6
+  facebook: null
+  twitter: null
+author:
+  name: Sam Little
+  email: info@changeswelcome.com
+  url: www.changeswelcome.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e02bc38-9f67-4772-a192-09ed8de7f630.png
+name: Clifton Hypnotherapy
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Getting Started
+    id: a68a7a03-19ac-4728-825c-061b60e433c8
+    type: content
+  - name: Locations
+    id: bd736084-4146-4c23-ac3c-2940c9061c8c
+    type: content
+  - name: Testimonials
+    id: aa2f87dc-1c4f-4607-a4c2-b49f02a72ac2
+    type: content
+  - name: Fees
+    id: 18cc6f6b-f802-45b2-9b6a-9422fcf25941
+    type: content
+  - name: Contact Us
+    id: ec7d29df-f320-4c24-a8a6-d7a65c5ef66d
+    type: content
+  - name: Visit Main Site
+    url: www.changeswelcome.com
+    type: external
+favicon: null
+title: Clifton Hypnotherapy Practice
+content: []
+description: Performance Hypnosis & Clinical Hypnotherapy in Bristol
+purpose:
+  - type: contact
+    url: 'tel:0117 214 0724'
+    label: Call 0117 214 0724
+  - type: contact
+    url: 'mailto:info@cliftonhypnotherapy.com'
+    label: Email Us
