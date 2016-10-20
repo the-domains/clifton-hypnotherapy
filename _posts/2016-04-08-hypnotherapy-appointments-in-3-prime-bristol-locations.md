@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-20T22:41:47.929Z'
+datePublished: '2016-10-20T22:43:26.076Z'
 sourcePath: _posts/2016-04-08-hypnotherapy-appointments-in-3-prime-bristol-locations.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-10-20T22:41:47.456Z'
+dateModified: '2016-10-20T22:43:25.642Z'
 title: 3 Prime Locations for Hypnotherapy in Bristol
 publisher: {}
 description: ''
@@ -34,7 +34,7 @@ The Practice Rooms, 57/59 Hight Street, Westbury-on-Trym, Bristol, BS9 3ED
 
 <iframe src="https://the-grid.github.io/ed-location/?latitude=20&amp;longitude=-35&amp;zoom=17&amp;address=Westbury-on-Trym%2C%20City%20of%20Bristol%2C%20City%20of%20Bristol%20BS9%203DR%20United%20Kingdom" style=""></iframe>
 
-    <script type="text/javascript">var $zoho= $zoho || {salesiq:{values:{},ready:function(){}}};var d=document;s=d.createElement("script");s.type="text/javascript";s.defer=true;s.src="https://salesiq.zoho.com/changeswelcome/button.ls?embedname=cliftonhypnotherapy";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);document.write("<div id='zldbtnframe'></div>")</script>
+    {salesiq:{values:{},ready:function(){}}};var d=document;s=d.createElement("script");s.type="text/javascript";s.defer=true;s.src="https://salesiq.zoho.com/changeswelcome/button.ls?embedname=cliftonhypnotherapy";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);document.write("<div id='zldbtnframe'></div>")</script>
 
 [Contact us][0]
 
