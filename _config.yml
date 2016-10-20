@@ -21,7 +21,7 @@ analytics:
   facebook: null
   twitter: null
 author:
-  name: Sam Little
+  name: Changes Welcome 2016
   email: info@changeswelcome.com
   url: www.changeswelcome.com
 logo: >-
@@ -50,7 +50,8 @@ navigation:
   - name: Visit Main Site
     url: www.changeswelcome.com
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0df6f695-39e7-407d-8bef-9a08da0086a3.png
 title: Clifton Hypnotherapy Practice
 content: []
 description: Performance Hypnosis & Clinical Hypnotherapy in Bristol
