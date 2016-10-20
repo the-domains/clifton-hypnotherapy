@@ -1,23 +1,23 @@
 ---
-datePublished: '2016-10-20T22:05:57.218Z'
+datePublished: '2016-10-20T23:25:40.224Z'
 sourcePath: _posts/2016-04-12-testimonials.md
-inFeed: false
+inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-20T22:05:56.768Z'
+dateModified: '2016-10-20T23:25:39.739Z'
 title: Testimonials
 publisher: {}
 description: ''
 inLanguage: null
 starred: false
 url: testimonials/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Testimonials
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1faeee12bedb06fc5208bb787217ef88af131558.jpg)
 
-<article style=""><img src="http://www.changeswelcome.com/wp-content/uploads/2016/03/cw.jpg" /><h1>Testimonials Archive | Changes Welcome Hypnotherapy</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f07c5307a3aa7a042dd9cbfafa665035563965ec.jpg" /><h1>Testimonials Archive | Changes Welcome Hypnotherapy</h1></article>
