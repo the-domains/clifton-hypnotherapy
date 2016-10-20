@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-20T22:20:11.593Z'
+datePublished: '2016-10-20T22:24:06.567Z'
 sourcePath: _posts/2016-04-08-hypnotherapy-appointments-in-3-prime-bristol-locations.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-10-20T22:20:11.136Z'
+dateModified: '2016-10-20T22:24:06.040Z'
 title: 3 Prime Locations for Hypnotherapy in Bristol
 publisher: {}
 description: ''
@@ -28,13 +28,13 @@ _type: Article
 
 The Practice Rooms, Regent Street, Clifton Village, Bristol, BS8 4HG
 
-<iframe src="https://the-grid.github.io/ed-location/?latitude=51.45429438975844&amp;longitude=-2.6183509826660156&amp;zoom=17&amp;address=BS8%204HG%2C%20City%20of%20Bristol%2C%20United%20Kingdom" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-location/?latitude=20&amp;longitude=-35&amp;zoom=17&amp;address=BS8%204HG%2C%20City%20of%20Bristol%2C%20United%20Kingdom" style=""></iframe>
 
 The Practice Rooms, 57/59 Hight Street, Westbury-on-Trym, Bristol, BS9 3ED
 
-<iframe src="https://the-grid.github.io/ed-location/?latitude=51.494523680895945&amp;longitude=-2.6184046268463135&amp;zoom=17&amp;address=Westbury-on-Trym%2C%20City%20of%20Bristol%2C%20City%20of%20Bristol%20BS9%203DR%20United%20Kingdom" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-location/?latitude=20&amp;longitude=-35&amp;zoom=17&amp;address=Westbury-on-Trym%2C%20City%20of%20Bristol%2C%20City%20of%20Bristol%20BS9%203DR%20United%20Kingdom" style=""></iframe>
 
-[Open][0]
+[Call Us Now][0]
 
 [Contact us][1]
 
