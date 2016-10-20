@@ -12,7 +12,8 @@ color:
   rhythmicContrast: 0.5
 github: true
 opengraph:
-  image: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/1068e754-f250-4d8a-81b6-db2c89766ea4.png
   type: null
   appId: null
 layout_spectrum: 0.64384
