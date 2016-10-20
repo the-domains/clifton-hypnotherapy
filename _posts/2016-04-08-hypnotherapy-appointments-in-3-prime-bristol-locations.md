@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-20T22:14:53.495Z'
+datePublished: '2016-10-20T22:14:54.435Z'
 sourcePath: _posts/2016-04-08-hypnotherapy-appointments-in-3-prime-bristol-locations.md
 inFeed: true
 authors: []
@@ -9,12 +9,12 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-10-20T22:14:53.071Z'
+dateModified: '2016-10-20T22:14:54.048Z'
 title: 3 Prime Locations for Hypnotherapy in Bristol
 publisher: {}
 description: ''
 inLanguage: null
-starred: true
+starred: false
 url: hypnotherapy-appointments-in-3-prime-bristol-locations/index.html
 _type: Article
 
