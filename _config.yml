@@ -55,9 +55,9 @@ title: Clifton Hypnotherapy Practice
 content: []
 description: Performance Hypnosis & Clinical Hypnotherapy in Bristol
 purpose:
-  - type: external
-    url: 'http://www.changeswelcome.com'
-    label: 'http://www.changeswelcome.com'
+  - type: phone
+    url: 'tel:0117 214 0724'
+    label: Call 0117 214 0724
   - type: contact
     url: 'mailto:info@cliftonhypnotherapy.com'
     label: Email Us
