@@ -48,9 +48,6 @@ navigation:
   - name: Contact Us
     id: ec7d29df-f320-4c24-a8a6-d7a65c5ef66d
     type: content
-  - name: Visit Main Site
-    url: www.changeswelcome.com
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0df6f695-39e7-407d-8bef-9a08da0086a3.png
 title: Clifton Hypnotherapy Practice
