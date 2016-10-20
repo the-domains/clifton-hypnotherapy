@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-20T22:08:07.445Z'
+datePublished: '2016-10-20T23:28:21.375Z'
 sourcePath: _posts/2016-04-08-clifton-hypnotherapy-practice.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-20T22:08:06.889Z'
+dateModified: '2016-10-20T23:28:20.865Z'
 title: Clifton Hypnotherapy Practice
 publisher: {}
 description: >-
@@ -15,7 +15,7 @@ description: >-
   people empower themselves not only to get over their issues, but to go on to
   be the best they can be.
 inLanguage: null
-starred: true
+starred: false
 url: clifton-hypnotherapy-practice/index.html
 _type: Article
 
