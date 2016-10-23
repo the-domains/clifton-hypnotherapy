@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-23T21:29:03.474Z'
+datePublished: '2016-10-23T21:58:53.228Z'
 sourcePath: _posts/2016-04-08-contact-us.md
 inFeed: true
 authors: []
@@ -7,12 +7,12 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-23T21:29:02.152Z'
+dateModified: '2016-10-23T21:58:52.564Z'
 title: Contact Us
 publisher: {}
 description: Clifton Hypnotherapy Practice
 inLanguage: null
-starred: true
+starred: false
 url: contact-us/index.html
 _type: Article
 
