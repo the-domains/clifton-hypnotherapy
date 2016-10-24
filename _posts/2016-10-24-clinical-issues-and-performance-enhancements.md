@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-10-24T22:35:42.290Z'
+datePublished: '2016-10-24T22:37:58.534Z'
+sourcePath: _posts/2016-10-24-clinical-issues-and-performance-enhancements.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-24T22:35:21.801Z'
+dateModified: '2016-10-24T22:37:57.981Z'
 title: Clinical Issues & Performance Enhancements
 publisher: {}
 description: 'Our customers tell us we have helped them, so maybe we can help YOU.'
 starred: true
-sourcePath: _posts/2016-10-24-clinical-issues-and-performance-enhancements.md
 url: clinical-issues-and-performance-enhancements/index.html
 _type: Article
 
@@ -19,6 +19,7 @@ _type: Article
 
 Our customers tell us we have helped them, so maybe we can help YOU.
 [Issues We Help][0]
+[Customers Feedback][1]
 ![Help with Anger Managment in Clifton, Bristol](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84523b03-14a3-4fb7-aa17-df4e6fae93f7.jpg)
 ![Anxiety help in Clifton, Bristol](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd42dc9-cb75-4279-81a2-7366aec581cd.jpg)
 ![Help with Chronic Fatigue in Clifton, Bristol](https://the-grid-user-content.s3-us-west-2.amazonaws.com/472072ae-3a5f-4696-b16e-6996917627ab.jpg)
@@ -42,3 +43,4 @@ Our customers tell us we have helped them, so maybe we can help YOU.
 ![Wieght Loss help in Clifton, Bristol](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec2da0e6-7877-48e3-a945-969144746865.jpg)
 
 [0]: http://www.cliftonhypnotehrapy.com/clinical-issues/
+[1]: http://www.cliftonhypnotherapy.com/testimonials
