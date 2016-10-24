@@ -48,6 +48,9 @@ navigation:
   - name: Contact Us
     id: ec7d29df-f320-4c24-a8a6-d7a65c5ef66d
     type: content
+  - name: Clinical & Performance Enhancements
+    id: 0ebf707f-54da-4eed-93e8-50426e6a4345
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/12642a51-3d81-44bc-a858-0c9d40e49778.png
 title: Clifton Hypnotherapy Practice
