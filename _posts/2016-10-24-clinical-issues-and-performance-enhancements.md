@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-24T22:40:48.773Z'
+datePublished: '2016-10-24T22:42:00.336Z'
 sourcePath: _posts/2016-10-24-clinical-issues-and-performance-enhancements.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-24T22:40:44.886Z'
+dateModified: '2016-10-24T22:42:00.070Z'
 title: Your Future is Bright - Take A Positive Step
 publisher: {}
 description: >-
@@ -13,7 +13,7 @@ description: >-
   performance issues that are holding you back.  From Anxiety to Confidence,
   Depression to Motivation, Goal Setting to Achievement.
 starred: true
-url: clinical-issues-and-performance-enhancements/index.html
+url: your-future-is-bright-take-a-positive-step/index.html
 _type: Article
 
 ---
