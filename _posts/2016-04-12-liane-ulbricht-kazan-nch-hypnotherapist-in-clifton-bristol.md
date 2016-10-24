@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-24T19:43:32.976Z'
+datePublished: '2016-10-24T19:43:48.301Z'
 sourcePath: >-
   _posts/2016-04-12-liane-ulbricht-kazan-nch-hypnotherapist-in-clifton-bristol.md
 inFeed: false
@@ -22,7 +22,7 @@ author:
     url: null
     avatar: {}
 via: {}
-dateModified: '2016-10-24T19:43:32.060Z'
+dateModified: '2016-10-24T19:43:48.052Z'
 title: Hypnotherapy Supervision
 app_links: []
 publisher:
@@ -33,7 +33,7 @@ publisher:
 description: ''
 inLanguage: en
 starred: false
-url: hypnotherapy-supervisor-bristol/index.html
+url: hypnotherapy-supervision/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
