@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-23T21:58:53.228Z'
+datePublished: '2016-10-24T19:36:37.864Z'
 sourcePath: _posts/2016-04-08-contact-us.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-23T21:58:52.564Z'
+dateModified: '2016-10-24T19:36:37.189Z'
 title: Contact Us
 publisher: {}
 description: Clifton Hypnotherapy Practice
@@ -29,3 +29,6 @@ info@cliftonhypnotherapy.com
 Tel: 0117 214 0724
 
 Mob: 07825 286 550
+[Practice Locations][0]
+
+[0]: http://www.cliftonhypnotherapy.com/hypnotherapy-appointments-in-3-prime-bristol-locations
