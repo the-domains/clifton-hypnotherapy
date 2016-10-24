@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-24T22:42:26.191Z'
+datePublished: '2016-10-24T22:43:36.899Z'
 sourcePath: _posts/2016-10-24-clinical-issues-and-performance-enhancements.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-24T22:42:25.434Z'
+dateModified: '2016-10-24T22:43:36.103Z'
 title: Your Future is Bright - Take A Positive Step
 publisher: {}
 description: >-
