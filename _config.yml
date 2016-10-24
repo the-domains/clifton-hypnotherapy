@@ -55,7 +55,7 @@ content: []
 description: Performance Hypnosis & Clinical Hypnotherapy in Bristol
 purpose:
   - type: phone
-    url: 'tel:0117 214 0724'
+    url: 0117 214 0724
     label: Call Us
   - type: contact
     url: 'mailto:info@cliftonhypnotherapy.com'
