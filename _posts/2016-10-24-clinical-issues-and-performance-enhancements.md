@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-10-24T22:47:14.404Z'
+datePublished: '2016-10-24T22:48:58.463Z'
 sourcePath: _posts/2016-10-24-clinical-issues-and-performance-enhancements.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-24T22:47:12.829Z'
+dateModified: '2016-10-24T22:48:57.549Z'
 title: Your Future is Bright - Take A Positive Step
 publisher: {}
 description: >-
   Clifton Hypnotherapy specialises in helping YOU conquer the clinical &
   performance issues that are holding you back.  From Anxiety to Confidence,
   Depression to Motivation, Goal Setting to Achievement.
-starred: false
+starred: true
 url: clinical-issues-and-performance-enhancements/index.html
 _type: Blurb
 
