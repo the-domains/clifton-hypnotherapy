@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-21T22:24:56.681Z'
+datePublished: '2016-10-24T22:55:36.744Z'
 sourcePath: _posts/2016-04-12-testimonials.md
 inFeed: true
 authors: []
@@ -7,10 +7,11 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-21T22:24:56.147Z'
+dateModified: '2016-10-24T22:55:36.324Z'
 title: Testimonials
 publisher:
   name: Changes Welcome
+  url: 'http://www.changeswelcome.com/testimonials-archive/'
 description: ''
 inLanguage: null
 starred: false
